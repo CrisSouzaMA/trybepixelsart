@@ -1,4 +1,4 @@
-## Project 2 - Módulo Fundamentos - Pixel Art
+## Project 2 - Fundamentals Module - Pixel Art
 
 <img src="./images/pixelsart.jpg" alt="Pixels art" />
 
